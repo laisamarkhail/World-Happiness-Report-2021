@@ -156,6 +156,8 @@ plt.show()
 
 * **Dataset:** [World Happiness Report 2021](https://worldhappiness.report/)
 * **Libraries:** pandas, seaborn, matplotlib, numpy, gdown
+## 📊 Dashboard Preview
+[![Dashboard Preview](./assets/dashboard-preview.png)](https://lookerstudio.google.com/reporting/42352692-bf50-4117-8e6d-496d9ca43e06)
 
 ## 👤 Authors
 
